@@ -1,8 +1,6 @@
 # Virtual Environment
 .venv/
-venv/
-ENV/
-env/
+
 
 # Data and large files
 archive/
