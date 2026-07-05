@@ -17,3 +17,9 @@ Thumbs.db
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+# Databases and large archives
+*.db
+*.zip
+*.py
+
